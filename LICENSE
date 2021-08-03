@@ -1,0 +1,35 @@
+Copyright 2021 Workiva Inc.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+This react_testing_library software contains Dart wrappers for JS APIs from the following libraries. Your use of the source
+code for the these libraries is subject to the terms and conditions of the following licenses:
+
+  - dom-testing-library: https://github.com/testing-library/dom-testing-library
+    - Copyright (c) 2017 Kent C. Dodds
+    - license: https://github.com/testing-library/dom-testing-library/blob/main/LICENSE
+
+  - react-testing-library: https://github.com/testing-library/react-testing-library
+    - Copyright (c) 2017 Kent C. Dodds
+    - license: https://github.com/testing-library/react-testing-library/blob/main/LICENSE
+
+  - user-event: https://github.com/testing-library/user-event
+    - Copyright (c) 2020 Giorgio Polvara
+    - license: https://github.com/testing-library/user-event/blob/main/LICENSE
+
+This react_testing_library software also contains Dart APIs that are based on the following library. Your use of the source
+code for the these libraries is subject to the terms and conditions of the following licenses:
+
+  - jest-dom: https://github.com/testing-library/jest-dom#custom-matchers
+    - Copyright (c) 2017 Kent C. Dodds
+    - license: https://github.com/testing-library/jest-dom/blob/main/LICENSE
